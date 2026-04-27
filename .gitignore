@@ -164,4 +164,5 @@ data/processed/
 #.idea/
 eda_groceries.ipynb
 
-settings.json
+.vscode/settings.json
+model.pkl
